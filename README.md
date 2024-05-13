@@ -7,7 +7,7 @@ I embarked  on this project to delve into the world of data analysis using EXCEL
 
 ## Project Overview
 
-This project aims to understand the behaviors on registered data of divorces and marriages in the Ciudad Autónoma de Buenos Aires, in 2018.
+This project aims to understand the behaviors on registered data of divorces and marriages in the Ciudad Autónoma de Buenos Aires, 2018.
 
 In the project you can see the stages of data cleaning, data analysis and data visualization.
 
