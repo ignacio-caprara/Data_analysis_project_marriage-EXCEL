@@ -34,7 +34,7 @@ In the project you can see the stages of data cleaning, data analysis and data v
 - https://data.buenosaires.gob.ar/dataset/divorcios/resource/426864f2-c86e-4fb0-9214-3a0b663fb30b
 - https://data.buenosaires.gob.ar/dataset/matrimonios/resource/1680a0cb-6ed4-495a-9969-fe06b80e429a
 
-- Font License: CC-BY-2.5-AR
+-Font License: CC-BY-2.5-AR
 
 --------------------------------------------------------------------------------------------------
 
