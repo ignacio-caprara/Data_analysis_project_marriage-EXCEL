@@ -38,4 +38,4 @@ In the project you can see the stages of data cleaning, data analysis and data v
 
 --------------------------------------------------------------------------------------------------
 
-![alt text](imagen_doc.jpg)
+![alt text](image_document.jpg)
