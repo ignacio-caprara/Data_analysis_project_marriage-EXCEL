@@ -15,17 +15,17 @@ In the project you can see the stages of data cleaning, data analysis and data v
 
 ## Results obtained:
 
-1)	The average length of a marriage is 18 years.
+1- The average length of a marriage is 18 years.
 
-2)	The average number of divorces is 519 per month, in the Ciudad Autónoma de Buenos Aires, in 2018.
+2- The average number of divorces is 519 per month, in the Ciudad Autónoma de Buenos Aires, in 2018.
 
-3)  The largest number of marriages that tend to last the longest are those that last from 6 to 10 years and those from 11 to 15 years.
+3- The largest number of marriages that tend to last the longest are those that last from 6 to 10 years and those from 11 to 15 years.
 
-4)  The average number of marriages is 978 per month, in the Ciudad Autónoma de Buenos Aires, in 2018.
+4- The average number of marriages is 978 per month, in the Ciudad Autónoma de Buenos Aires, in 2018.
 
-5)  The commune that registered the most marriages in 2018, by wide difference, is commune 1.
+5- The commune that registered the most marriages in 2018, by wide difference, is commune 1.
 
-6)  In the Ciudad Autónoma de Buenos Aires, every month of 2018 there were more marriages than divorces, although the month of June is the point where the number of marriages is closest to the number of registered divorces.
+6- In the Ciudad Autónoma de Buenos Aires, every month of 2018 there were more marriages than divorces, although the month of June is the point where the number of marriages is closest to the number of registered divorces.
 
 --------------------------------------------------------------------------------------------------
 
