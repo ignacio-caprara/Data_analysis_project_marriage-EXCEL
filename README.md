@@ -1,7 +1,7 @@
 # Project_marriage_divorce 💍 - Using EXCEL
 
 ## Motivation
-I embarked  on this project to delve into the world of data analysis using EXCEL and showcase my skills in exploring and extracting valuable insights from complex datasets. The selected databases are a rich and complete collection of data on the citizens of the Ciudad Autónoma de Buenos Aires. These provided the perfect opportunity to apply Excel skills and gain practical experience in data manipulation, aggregation and analysis.
+I ventured on this project to delve into the world of data analysis using EXCEL and showcase my skills in exploring and extracting valuable insights from complex datasets. The selected databases are a rich and complete collection of data on the citizens of the Ciudad Autónoma de Buenos Aires. These provided the perfect opportunity to apply Excel skills and gain practical experience in data manipulation, aggregation and analysis.
 
 --------------------------------------------------------------------------------------------------
 
